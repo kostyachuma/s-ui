@@ -1,0 +1,15 @@
+@import "./fonts";
+@import "./colors";
+
+@import "./utils/functions";
+@import "./utils/mixins";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Inter', sans-serif;
+}
